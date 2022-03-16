@@ -13,7 +13,7 @@
 #### &nbsp;&nbsp; <code><strong>arrow_left, a, q</strong></code>
 
 #### In sign_up menu, after input your personal information, press **<code>"enter"</code>** to confirm your input and move on.
-#### In home→my_profile→edit_profile menu press **<code>"enter"</code>** in the section you want to change and input your new information.
+#### In home➜my_profile➜edit_profile menu press **<code>"enter"</code>** in the section you want to change and input your new information.
 #### **!!!** Be careful, ***passwords will not be displayed*** during typing like sudo password in Linux.
 #### Be careful, while solving CAPTCHA :))
 
