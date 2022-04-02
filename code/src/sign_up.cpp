@@ -158,7 +158,7 @@ void registration()
 
     bool writted = false;
     int sizeI = 8;
-    std::string data[sizeI] = {first_name, last_name, gender, birthday, phone, email, password, id};
+    std::string data[8] = {first_name, last_name, gender, birthday, phone, email, password, id};
     if(confirm)
     {
         writted = writeDataInFile(data, sizeI);
