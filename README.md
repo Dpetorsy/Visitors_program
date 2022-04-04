@@ -17,7 +17,7 @@
 #### **!!!** Be careful, ***passwords will not be displayed*** during typing like sudo password in Linux.
 #### Be careful, while solving CAPTCHA :))
 
-## How start
+## Getting Started
 #### 1. Update your packages: &nbsp;**<code>sudo apt-get update</code>**
 #### 2. Install GCC compiler, if you don't have: &nbsp;**<code>sudo apt install build-essential</code>**
 #### 3. Check installation with command: &nbsp;**<code>gcc --version</code>**
