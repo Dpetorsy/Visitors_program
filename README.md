@@ -1,7 +1,7 @@
-## Short about project
+## 📜 Short about project
 #### The program has a section for registration, and stores the personal information of each user. Users can "log in" and "log out" of a custom system (for example, a sports complex or a bank), and the program saves this information and allows the user to view the history of their actions.
 
-## Controls
+## 🎮 Controls
 ### Moving in menus:
 #### 1. Move up with keys: 
 #### &nbsp;&nbsp; <code><strong>arrow_up, w</strong></code>
@@ -17,7 +17,7 @@
 #### **!!!** Be careful, ***passwords will not be displayed*** during typing like sudo password in Linux.
 #### Be careful, while solving CAPTCHA :))
 
-## Getting Started
+## 👨‍💻 Getting Started
 #### 1. Update your packages: &nbsp;**<code>sudo apt-get update</code>**
 #### 2. Install GCC compiler, if you don't have: &nbsp;**<code>sudo apt install build-essential</code>**
 #### 3. Check installation with command: &nbsp;**<code>gcc --version</code>**
