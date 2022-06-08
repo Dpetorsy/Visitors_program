@@ -1,5 +1,5 @@
 ## 📜 Short about project
-#### The program has a section for registration, and stores the personal information of each user. Users can "log in" and "log out" of a custom system (for example, a sports complex or a bank), and the program saves this information and allows the user to view the history of their actions.
+#### The program has a section for registration, and stores the personal information of each user. Users can "log in" and "log out" of a custom system (for example, a sport complex or a bank), and the program saves this information and allows the user to view the history of their actions.
 
 ## 🎮 Controls
 ### Moving in menus:
