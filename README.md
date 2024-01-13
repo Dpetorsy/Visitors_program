@@ -16,8 +16,7 @@ Users can "log in" and "log out" of a custom system (for example, a sports compl
 &nbsp;&nbsp; <code><strong>arrow_left, a, q</strong></code>
 
 In the sign-up menu, after you input your personal information, press **`"enter"`** to confirm your input and move on. \
-In the home➜my_profile➜edit_profile menu, press **`"enter"`** in the section you want to change and input your new information. \
-Be careful while solving CAPTCHA :))
+In the home➜my_profile➜edit_profile menu, press **`"enter"`** in the section you want to change and input your new information. Be careful while solving CAPTCHA :))
 
 > [!Note]
 > Be careful, ***passwords will not be displayed*** during typing like sudo password in Linux.
