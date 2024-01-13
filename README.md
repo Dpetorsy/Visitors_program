@@ -10,7 +10,7 @@ Users can "log in" and "log out" of a custom system (for example, a sports compl
 &nbsp;&nbsp; <code><strong>arrow_up, w</strong></code>
 * Move down with keys: 
 &nbsp;&nbsp; <code><strong>arrow_down, s</strong></code>
-* Select a section in the menu with keys: 
+* Select a section in the menu with the keys: 
 &nbsp;&nbsp; <code><strong>arrow_right, d</strong></code>
 * Quit from the current menu with the keys:
 &nbsp;&nbsp; <code><strong>arrow_left, a, q</strong></code>
